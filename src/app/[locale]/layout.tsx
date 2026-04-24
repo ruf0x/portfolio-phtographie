@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: "Mustapha Benaissa Portfolio",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1605369572399-05d8d64a0f6e?auto=format&fit=crop&q=80&w=1200",
+        url: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=800",
         width: 1200,
         height: 630,
         alt: "Mustapha Benaissa Cinematic Portfolio",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Mustapha Benaissa | Director & Cinematographer",
     description: "Audiovisual Portfolio of Mustapha Benaissa, exploring cinematic storytelling.",
-    images: ["https://images.unsplash.com/photo-1605369572399-05d8d64a0f6e?auto=format&fit=crop&q=80&w=1200"],
+    images: ["https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=800"],
   },
 };
 

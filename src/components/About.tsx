@@ -19,7 +19,7 @@ export default function About() {
         className="w-full md:w-1/2 relative aspect-[3/4] md:aspect-[4/5] bg-white/5 rounded-sm overflow-hidden"
       >
         <Image
-          src="https://images.unsplash.com/photo-1605369572399-05d8d64a0f6e?auto=format&fit=crop&q=80&w=1200"
+          src="https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=800"
           alt={t("title")}
           fill
           className="object-cover grayscale hover:grayscale-0 transition-all duration-1000 ease-in-out"
