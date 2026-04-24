@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "title": "Midnight Reflections",
+    "category": "Cinematography",
+    "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&q=80&w=800",
+    "description": "A cinematic exploration of city lights and shadows. Featuring multiple videos capturing the essence of the night.",
+    "role": "Cinematographer",
+    "aspectRatio": "16/9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4"
+      },
+      {
+        "type": "video",
+        "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_2mb.mp4"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Urban Portraits",
+    "category": "Photography",
+    "thumbnail": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=800",
+    "description": "High-fashion portraiture in brutalist environments. A collection of multiple photos.",
+    "role": "Photographer",
+    "aspectRatio": "3/4",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=1200"
+      },
+      {
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1200"
+      },
+      {
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=1200"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Neo-Noir Grading",
+    "category": "Color Grading",
+    "thumbnail": "https://images.unsplash.com/photo-1580211750697-a42e5a47e7eb?auto=format&fit=crop&q=80&w=800",
+    "description": "Color grading breakdown for a short neo-noir film.",
+    "role": "Colorist",
+    "aspectRatio": "16/9",
+    "media": [
+      {
+        "type": "color_grading",
+        "beforeImage": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&q=80&w=1200",
+        "afterImage": "https://images.unsplash.com/photo-1580211750697-a42e5a47e7eb?auto=format&fit=crop&q=80&w=1200"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Mixed Media Campaign",
+    "category": "Commercial",
+    "thumbnail": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=800",
+    "description": "Dynamic commercial spot with behind the scenes photography. Contains both video and photos.",
+    "role": "Director & DoP",
+    "aspectRatio": "16/9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4"
+      },
+      {
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=1200"
+      },
+      {
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&q=80&w=1200"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Studio Lookbook",
+    "category": "Photography",
+    "thumbnail": "https://images.unsplash.com/photo-1492633423870-43d1cd2775eb?auto=format&fit=crop&q=80&w=800",
+    "description": "Minimalist lookbook for a premium fashion brand. Contains a single photo.",
+    "role": "Photographer",
+    "aspectRatio": "4/5",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://images.unsplash.com/photo-1492633423870-43d1cd2775eb?auto=format&fit=crop&q=80&w=1200"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Desert Sunsets",
+    "category": "Cinematography",
+    "thumbnail": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&q=80&w=800",
+    "description": "A visual poem captured in the Sahara desert. Contains a single video.",
+    "role": "DoP",
+    "aspectRatio": "16/9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4"
+      }
+    ]
+  }
+]

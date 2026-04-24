@@ -1,0 +1,44 @@
+{
+  "Header": {
+    "work": "Work",
+    "showreel": "Showreel",
+    "about": "About",
+    "connect": "Connect"
+  },
+  "Hero": {
+    "title": "Mustapha Benaissa",
+    "subtitle": "Director & Cinematographer",
+    "scroll": "Scroll to discover"
+  },
+  "WorkGallery": {
+    "all": "All",
+    "cinematography": "Cinematography",
+    "photography": "Photography",
+    "commercial": "Commercial",
+    "color_grading": "Color Grading"
+  },
+  "Showreel": {
+    "title": "Showreel 2024",
+    "soundOn": "Sound On Recommended"
+  },
+  "Modal": {
+    "role": "Role",
+    "before": "Before",
+    "after": "After",
+    "close": "Close"
+  },
+  "About": {
+    "title": "About Me",
+    "subtitle": "Crafting visual narratives that evoke emotion and leave a lasting impression.",
+    "bio1": "With over a decade of experience behind the lens, I specialize in commercial and narrative cinematography. My approach is rooted in an unwavering dedication to storytelling through light, composition, and movement.",
+    "bio2": "From gritty urban documentaries to high-fashion lookbooks, I bring a unique, cinematic eye to every project, ensuring that the visual language always serves the emotional core of the subject."
+  },
+  "Connect": {
+    "title": "Let's Connect",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "basedIn": "Based in Paris, France"
+  }
+}

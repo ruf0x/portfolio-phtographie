@@ -1,0 +1,44 @@
+{
+  "Header": {
+    "work": "Travaux",
+    "showreel": "Bande Démo",
+    "about": "À Propos",
+    "connect": "Contact"
+  },
+  "Hero": {
+    "title": "Mustapha Benaissa",
+    "subtitle": "Réalisateur & Directeur de la Photographie",
+    "scroll": "Défilez pour découvrir"
+  },
+  "WorkGallery": {
+    "all": "Tout",
+    "cinematography": "Cinématographie",
+    "photography": "Photographie",
+    "commercial": "Publicité",
+    "color_grading": "Étalonnage"
+  },
+  "Showreel": {
+    "title": "Bande Démo 2024",
+    "soundOn": "Son recommandé"
+  },
+  "Modal": {
+    "role": "Rôle",
+    "before": "Avant",
+    "after": "Après",
+    "close": "Fermer"
+  },
+  "About": {
+    "title": "À Propos",
+    "subtitle": "Créer des récits visuels qui suscitent l'émotion et laissent une impression durable.",
+    "bio1": "Avec plus d'une décennie d'expérience derrière l'objectif, je me spécialise dans la cinématographie commerciale et narrative. Mon approche est ancrée dans un dévouement inébranlable à la narration par la lumière, la composition et le mouvement.",
+    "bio2": "Des documentaires urbains réalistes aux lookbooks haute couture, j'apporte un œil unique et cinématographique à chaque projet, en veillant à ce que le langage visuel serve toujours le cœur émotionnel du sujet."
+  },
+  "Connect": {
+    "title": "Contactez-moi",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "basedIn": "Basé à Paris, France"
+  }
+}
