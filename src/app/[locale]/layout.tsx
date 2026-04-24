@@ -13,17 +13,18 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://portfolio-mustapha-benaissa.vercel.app'),
   title: "Mustapha Benaissa | Director & Cinematographer",
   description: "Mustapha Benaissa is a highly sought-after Director and Cinematographer based in Paris, specializing in commercial, narrative, and high-fashion visual storytelling.",
   keywords: ["Mustapha Benaissa", "Director", "Cinematographer", "DoP", "Director of Photography", "Paris", "Filmmaker", "Colorist", "Portfolio", "Commercial", "Narrative"],
   openGraph: {
     title: "Mustapha Benaissa | Director & Cinematographer",
     description: "Audiovisual Portfolio of Mustapha Benaissa, exploring cinematic storytelling through light, composition, and movement.",
-    url: "https://benaissa.com",
+    url: "https://portfolio-mustapha-benaissa.vercel.app",
     siteName: "Mustapha Benaissa Portfolio",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=800",
+        url: "/mb-og-image.png",
         width: 1200,
         height: 630,
         alt: "Mustapha Benaissa Cinematic Portfolio",
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Mustapha Benaissa | Director & Cinematographer",
     description: "Audiovisual Portfolio of Mustapha Benaissa, exploring cinematic storytelling.",
-    images: ["https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=800"],
+    images: ["/mb-og-image.png"],
   },
 };
 
